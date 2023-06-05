@@ -1,2 +1,2 @@
 # rig-infra
-Rig Infrastructure - deployed to AWS via AWS CloudFormation
+Infrastructure for the Rig Chat Application
