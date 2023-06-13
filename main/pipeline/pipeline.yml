@@ -1,6 +1,8 @@
 AWSTemplateFormatVersion: 2010-09-09
 Description: Stack that deploys the CodeStar connection for the pipeline of the Rig Chat Application by Quartz Tech
 
+# Deploys the pipeline stack for Rig
+
 Parameters:
   ArtifactsBucketName:
     Type: String
